@@ -1,0 +1,7 @@
+<svg id="Group_483" data-name="Group 483" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Rectangle_112" data-name="Rectangle 112" fill="none" stroke="#707070" stroke-width="1" opacity="0">
+    <rect width="24" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+  </g>
+  <path id="email" d="M18.964,6.75H3.536A1.286,1.286,0,0,0,2.25,8.036V18.321a1.286,1.286,0,0,0,1.286,1.286H18.964a1.286,1.286,0,0,0,1.286-1.286V8.036A1.286,1.286,0,0,0,18.964,6.75ZM17.55,8.036l-6.3,4.358L4.95,8.036ZM3.536,18.321v-9.7l7.348,5.085a.643.643,0,0,0,.733,0l7.348-5.085v9.7Z" transform="translate(0.75 -1.179)" fill="#fff"/>
+</svg>
